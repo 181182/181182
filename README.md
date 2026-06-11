@@ -33,7 +33,6 @@ role:      "Developer @ Sonat"
 location:  "Bergen, Norway 🇳🇴"
 education: "HVL — Computer Engineering / Web of Things"
 focus:     ["full-stack", "IoT / WoT", "clean architecture"]
-currently: "Norwegian government services (Fiks Allmenningen)"
 dreaming:  "Japan 2026 🗾"
 fun_fact:  "#HiBster"
 ```
