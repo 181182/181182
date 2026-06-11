@@ -25,21 +25,7 @@
 
 ---
 
-### 👋 About me
-
-```yaml
-name:      "Magnus Ødegård Bergersen"
-role:      "Developer @ Sonat"
-location:  "Bergen, Norway 🇳🇴"
-education: "HVL — Computer Engineering / Web of Things"
-focus:     ["full-stack", "IoT / WoT", "clean architecture"]
-dreaming:  "Japan 2026 🗾"
-fun_fact:  "#HiBster"
-```
-
----
-
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
 
@@ -59,7 +45,7 @@ fun_fact:  "#HiBster"
 
 ---
 
-### 📊 GitHub Activity
+<h3 align="center">📊 GitHub Activity</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=181182&theme=tokyonight&hide_border=true" alt="streak" />
@@ -71,7 +57,7 @@ fun_fact:  "#HiBster"
 
 ---
 
-### 🐍 Watch my contributions get eaten
+<h3 align="center">🐍 Watch my contributions get eaten</h3>
 
 <div align="center">
   <picture>
