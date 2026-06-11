@@ -63,12 +63,7 @@ fun_fact:  "#HiBster"
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=181182&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=181182&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</div>
+### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=181182&theme=tokyonight&hide_border=true" alt="streak" />
@@ -92,24 +87,6 @@ fun_fact:  "#HiBster"
 
 ---
 
-### 🎧 What I'm listening to
-
-<div align="center">
-  <a href="https://open.spotify.com/user/SPOTIFY_USER_ID">
-    <img src="https://spotify-github-profile.kittinan.com/api/view?uid=SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b27&bar_color=7aa2f7&bar_color_cover=true" alt="spotify now playing" />
-  </a>
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=181182&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</div>
-
----
-
 ### 🐍 Watch my contributions get eaten
 
 <div align="center">
@@ -118,23 +95,6 @@ fun_fact:  "#HiBster"
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/181182/181182/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/181182/181182/output/github-snake.svg" />
   </picture>
-</div>
-
----
-
-### 💬 Dev quote of the moment
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-</div>
-
----
-
-### 🌐 Connect
-
-<div align="center">
-  <a href="https://www.sonat.no/"><img src="https://img.shields.io/badge/Sonat-1a1b27?style=for-the-badge&logo=briefcase&logoColor=7aa2f7" alt="sonat" /></a>
-  <a href="https://github.com/181182"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </div>
 
 <br/>
