@@ -1,61 +1,73 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗
      ║  Profile README for @181182 — Magnus Ødegård Bergersen          ║
-     ║  Theme: tokyonight 🌃  |  flashy build                          ║
+     ║  Theme: NEON 🌈  |  animated build                              ║
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <!-- HEADER BANNER -->
 <a href="https://github.com/181182">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Magnus%20%C3%98deg%C3%A5rd%20Bergersen&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Developer%20%40%20Sonat%20%C2%B7%20Bergen%20%F0%9F%87%B3%F0%9F%87%B4&descAlignY=58&descSize=18" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,45:B026FF,100:00F0FF&height=210&section=header&text=Magnus%20%C3%98deg%C3%A5rd%20Bergersen&fontColor=ffffff&fontSize=42&animation=twinkling&fontAlignY=38&desc=Developer%20%40%20Sonat%20%C2%B7%20Bergen%20%F0%9F%87%B3%F0%9F%87%B4&descAlignY=58&descSize=18" alt="header"/>
 </a>
 
 <!-- TYPING SVG -->
 <div align="center">
   <a href="https://github.com/181182">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-stack+developer+%40+Sonat;Java+%C2%B7+Kotlin+%C2%B7+TypeScript;Web+of+Things+%26+IoT+tinkerer;Bergen-based+%2C+Japan-bound+%F0%9F%97%BE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=00F0FF&background=0D111700&center=true&vCenter=true&multiline=false&width=620&lines=%E2%9A%A1+Full-stack+developer+%40+Sonat;Java+%C2%B7+Kotlin+%C2%B7+TypeScript;%F0%9F%95%B8%EF%B8%8F+Web+of+Things+%26+IoT+tinkerer;%F0%9F%97%BE+Bergen-based+%2C+Japan-bound" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- VISITOR COUNTER + FOLLOW + SOCIALS -->
+<!-- COUNTERS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=181182&label=Profile%20views&color=7aa2f7&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=181182&label=Profile%20views&color=F72585&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/181182?tab=followers">
-    <img src="https://img.shields.io/github/followers/181182?label=Follow&style=social" alt="followers" />
+    <img src="https://img.shields.io/github/followers/181182?label=Follow&style=for-the-badge&color=B026FF&labelColor=0D1117" alt="followers" />
   </a>
+  <img src="https://img.shields.io/github/stars/181182?label=Stars&style=for-the-badge&color=00F0FF&labelColor=0D1117" alt="stars" />
 </div>
 
----
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" />
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=java,kotlin,ts,js,cpp,html,spring,docker,git,kubernetes&theme=dark&perline=10" alt="skill icons" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white&labelColor=0D1117" alt="OpenShift" />
 </div>
 
----
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" />
 
 <h3 align="center">📊 GitHub Activity</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=181182&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=181182&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=00F0FF&currStreakLabel=B026FF" alt="streak" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=181182&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=181182&bg_color=0D1117&color=00F0FF&line=F72585&point=B026FF&area_color=7209B7&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
 </div>
 
----
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" />
+
+<h3 align="center">🧊 3D Contributions</h3>
+
+<div align="center">
+  <img width="95%" src="https://raw.githubusercontent.com/181182/181182/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" />
+</div>
+
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" />
+
+<h3 align="center">📈 Metrics</h3>
+
+<div align="center">
+  <img width="95%" src="https://raw.githubusercontent.com/181182/181182/main/github-metrics.svg" alt="metrics" />
+</div>
+
+<!-- NEON DIVIDER -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" />
 
 <h3 align="center">🐍 Watch my contributions get eaten</h3>
 
@@ -70,4 +82,4 @@
 <br/>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,55:B026FF,100:F72585&height=130&section=footer&animation=twinkling" alt="footer"/>
