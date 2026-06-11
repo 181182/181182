@@ -51,10 +51,6 @@ fun_fact:  "#HiBster"
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -72,18 +68,6 @@ fun_fact:  "#HiBster"
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=181182&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </div>
-
----
-
-### ⏱️ Where my coding time goes (WakaTime)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="wakatime" />
-</div>
-
-<!-- Detailed weekly breakdown injected by the waka-readme action — do not edit between markers -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
