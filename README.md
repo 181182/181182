@@ -21,7 +21,6 @@
   <a href="https://github.com/181182?tab=followers">
     <img src="https://img.shields.io/github/followers/181182?label=Follow&style=for-the-badge&color=B026FF&labelColor=0D1117" alt="followers" />
   </a>
-  <img src="https://img.shields.io/github/stars/181182?label=Stars&style=for-the-badge&color=00F0FF&labelColor=0D1117" alt="stars" />
 </div>
 
 <!-- NEON DIVIDER -->
