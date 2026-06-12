@@ -59,15 +59,6 @@
 <!-- NEON DIVIDER -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" />
 
-<h3 align="center">📈 Metrics</h3>
-
-<div align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/181182/181182/main/github-metrics.svg" alt="metrics" />
-</div>
-
-<!-- NEON DIVIDER -->
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider" />
-
 <h3 align="center">🐍 Watch my contributions get eaten</h3>
 
 <div align="center">
